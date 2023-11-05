@@ -2,8 +2,8 @@
 | -------------------- | ---------------------------- |
 
 
-[GitHub Stats Card]: https://github-readme-stats.vercel.app/api?username=perforb&count_private=true&theme=prussian&show_icons=true&hide_border=true
-[GitHub Top Languages Card]: https://github-readme-stats.vercel.app/api/top-langs/?username=perforb&layout=compact&theme=prussian&hide_border=true?langs_count=9&hide=Prolog,Emacs%20Lisp,Shell,PHP
+[GitHub Stats Card]: https://github-readme-stats.vercel.app/api?username=perforb&count_private=true&theme=catppuccin_latte&show_icons=true&hide_border=true
+[GitHub Top Languages Card]: https://github-readme-stats.vercel.app/api/top-langs/?username=perforb&layout=compact&theme=catppuccin_latte&hide_border=true?langs_count=9&hide=Prolog,Emacs%20Lisp,Shell,PHP
 
 <!--
 ref:
